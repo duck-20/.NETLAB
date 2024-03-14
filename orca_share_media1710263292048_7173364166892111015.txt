@@ -1,0 +1,28 @@
+1. Write a program to demonstrate the difference between
+Console.ReadLine() and Console.Read(), Console.Write() and
+Console.WriteLine() in C#.
+
+2. Concept on Polymorphism i.e., Function overloading
+Write a program to add numbers x, y and z .One function to add x
+and y another function to add all three numbers. Print on screen as
+given output.
+Sum of 5 and 6 = 11
+Sum of 5, 6 and 7 = 18
+
+3. Write a program to implement the concept of default
+constructor, parameterized construct.
+
+4.Write a concept of multilevel inheritance and multiple
+inheritance in C#.
+
+5. Write a program on Method overloading and Method
+Overriding in C#.
+
+6. Write a C# console application that calculates the final grade based on individual scores. 
+7.Write a program that checks user input number is odd or even.
+8.Build a simple calculator that performs addition, subtraction, multiplication, or division based on user input using function.
+9. Write a program that prints numbers from 1 to 10 using a for loop. Use a for loop to iterate through the numbers and display each number to the console.
+10.Create a program that initializes an array with some predefined values. Use a foreach loop to iterate through the array and display each element to the console.
+
+
+
